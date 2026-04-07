@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Vitor Gabriel Martins Blan
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor`**
 
 Me chamo Vitor Gabriel Martins Blan, tenho 20 anos e sou de Vilhena Rondonia estou cursando ADS no Instituto Federal de Rondônia - IFRO
 
