@@ -7,7 +7,7 @@
 <p align="center">
   Me chamo <b>Vitor Gabriel Martins Blan</b>, tenho 20 anos e sou de <b>Vilhena — Rondônia</b>.<br/>
   Curso <b>Análise e Desenvolvimento de Sistemas</b> no <b>Instituto Federal de Rondônia (IFRO)</b>.<br/>
-  Sempre estudando algo novo e construindo projetos pra evoluir como dev. 🚀
+   🚀
 </p>
 
 <p align="center">
